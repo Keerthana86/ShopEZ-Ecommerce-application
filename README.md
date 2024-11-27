@@ -25,3 +25,11 @@ ShopEZ is your one-stop destination for effortless online shopping. With a user-
   - User authentication and authorization.
   - Responsive design.
   - Secure database integration with MongoDB Atlas.
+
+## Report and PPT
+
+Drive Link - https://drive.google.com/drive/folders/1N8KmIx0wTgtbWF-OnU6vQGN6EYTuTsLR
+
+## Demo Link
+
+Drive Link - https://drive.google.com/drive/folders/1sXgOciybSGY7QtpmHNl9fR4iqplpjfE6
